@@ -1,0 +1,7 @@
+Ellipse(X1 Y1 L1 H1)
+Ellipse(X12 Y12 L12 H12)
+Ellipse(X3 Y3 L3 H3)
+Ellipse(X1 Y1 L1 H1)
+Ellipse(X1 Y1 L1 H1)
+Ellipse(X1 Y1 L1 H1)
+Ellipse(X1 Y1 L1 H1)

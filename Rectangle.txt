@@ -1,0 +1,6 @@
+Rectangle(X1 Y1 L1 H1)
+Rectangle(X2 Y2 L2 H2)
+Rectangle(X1 Y2 L3 H4)
+Rectangle(X4 Y3 L2 H1)
+Rectangle(X2 Y2 L2 H2)
+Rectangle(X2 Y2 L2 H2)
